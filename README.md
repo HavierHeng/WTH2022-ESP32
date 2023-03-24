@@ -9,3 +9,6 @@ The goal is to create a user-friendly mobile application and IoT system that can
 This github repo contains code used on the ESP32 to send data to and from Google real-time firebase, as well as read from IR sensors we placed on our prototype mockup to simulate the ultrasonic sensors used in real carparks. 
 
 The prototype is simplified to have only 2 floor, with 4 lots each. This allows more rapid prototyping for the sake of time.
+
+## Poster
+The poster for the project can be viewed [here](assets/WTH_Poster.pdf).
